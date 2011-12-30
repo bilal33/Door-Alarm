@@ -1,0 +1,3 @@
+Battery power
+MAX756, MAX757
+http://www.ladyada.net/make/mintyboost/process.html
